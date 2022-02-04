@@ -1,1 +1,23 @@
 Ini adalah daftar perintah Shinobi musik :
+
+⚙️ Perintah untuk semua user :
+▪️/play - reply to youtube url or song file to play song
+▪️/vplay - reply to youtube url or song file to play song
+▪️/song <song name> - download songs you want quickly
+▪️/search <query> - search videos on youtube with details
+▪️/lyrics <query> - search lyrics from web
+
+⚙️ Perintah yang membutuhkan hak Admin :
+▪️/pause - pause song play
+▪️/resume - resume song play
+▪️/skip - play next song
+▪️/end - stop music play
+▪️/vstop - stop video stream
+▪️/vpause - pause video stream
+▪️/vresume - resume video stream
+▪️/vskip - skip video stream
+
+⚙️ Perintah yang membutuhkan hak Sudo :
+▪️/userbotleaveall - remove assistant from all chats
+▪️/broadcast <reply to message> - globally brodcast replied message to all chats
+▪️/pmpermit [on/off] - enable/disable pmpermit message
